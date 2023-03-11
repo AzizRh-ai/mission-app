@@ -1,7 +1,8 @@
 # mission-app
- Demande de projet à réaliser.
+ Projet à réaliser:
  
  Architecture : MVC (Model / View / Controller
+ 
  Technologie utilisé: PHP (Framework Laravel), Javascript
  
  

@@ -36,6 +36,7 @@ Concernant la structure du projet:
     -Controller : app\Http\Controllers
 
 Les routes: 
+
     Accueil        : /
     
     Profil         : /profile

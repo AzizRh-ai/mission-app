@@ -1,5 +1,4 @@
-# mission-app
- Projet à réaliser:
+# Projet à réaliser
  
  Architecture : MVC (Model / View / Controller
  

@@ -45,4 +45,4 @@ Les routes:
     
     Enregistrement : /register
     
-    Récupération pass:
+Teste en live: voir email
